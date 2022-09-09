@@ -6,10 +6,12 @@ package singleton;
 
 /**
  *
- * @author Internet
+ * @author elkinmateo
  */
+
 public class Singleton {
 
+    
      /**
      * @param args the command line arguments
      */

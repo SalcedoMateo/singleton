@@ -22,6 +22,8 @@ public class Instancia {
      * @method Instancia
      * Constructor de la clase instancia privada para utilizar en singleton
      */
+    
+    
     private Instancia(){
         
     }
